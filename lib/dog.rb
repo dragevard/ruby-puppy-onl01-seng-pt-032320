@@ -6,7 +6,7 @@ class Dog
   attr_accessor :name
   
   def initialize(puppy)
-    self.save
+    self.save=
     @name = puppy
   end 
   
